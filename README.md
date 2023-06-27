@@ -14,4 +14,3 @@ Now building web3 data APIs & blockchain indexing solutions
 - 📫 How to reach me: (Telegram)[https://t.me/kirill_balakhonov]
 
 
-<a href="https://app.daily.dev/balakhonoff"><img src="https://api.daily.dev/devcards/4dc98691f1be462e9812159c83416be9.png?r=a36" width="400" alt="Kirill Balakhonov's Dev Card"/></a>
