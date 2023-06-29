@@ -5,13 +5,9 @@ Also, I'm a data science expert with 5 years of work experience
 Now building web3 data APIs & blockchain indexing solutions
 
 [Twitter](https://twitter.com/balakhonoff)
-
 [Telegram](https://t.me/kirill_balakhonov)
-
 [Medium](https://medium.com/@balakhonoff_47314)
-
 [HackerNoon](https://hackernoon.com/u/balakhonoff)
-
 [Daily.dev](https://app.daily.dev/balakhonoff)
 
 
