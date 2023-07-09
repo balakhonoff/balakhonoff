@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Product Lead at Chainstack.com (Web3 Infrastructure provider)/
-Also, I'm a data science expert with 5 years of work experience 
-Now building web3 data APIs & blockchain indexing solutions
+- I'm a Product Lead at Chainstack.com (Web3 Infrastructure provider) /
+- Also, I'm a data science expert with 5 years of work experience /
+- Now building web3 data APIs & blockchain indexing solutions
 
 [Twitter](https://twitter.com/balakhonoff)
 [Telegram](https://t.me/kirill_balakhonov)
