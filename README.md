@@ -6,8 +6,8 @@
 
 [Twitter](https://twitter.com/balakhonoff)
 [Telegram](https://t.me/kirill_balakhonov)
-[Medium](https://medium.com/@balakhonoff_47314)
 [HackerNoon](https://hackernoon.com/u/balakhonoff)
+[Medium](https://medium.com/@balakhonoff_47314)
 [Daily.dev](https://app.daily.dev/balakhonoff)
 
 
