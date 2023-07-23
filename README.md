@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm a Product Lead at [Chainstack](https://chainstack.com) (Web3 Infrastructure provider) /
-- Also, I'm a data science expert with 5 years of work experience [kaggle](https://www.kaggle.com/kirill702b) /
+- Also, I'm a data science expert with 5 years of work experience ([kaggle](https://www.kaggle.com/kirill702b)) /
 - Now building web3 data APIs & blockchain indexing solutions ([Chainstack Subgraphs](https://chainstack.com/subgraphs/))
 
 [Twitter](https://twitter.com/balakhonoff)
