@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm a Product Manager at [Nethermind](https://nethermind.io) /
-- Also, I'm a data science/machine learning expert with 5+ years of work experience ([kaggle](https://www.kaggle.com/kirill702b)) /
+- Also, I'm a data science/machine learning expert with 7 years of work experience ([kaggle](https://www.kaggle.com/kirill702b)) /
 - Now focused on the intersection of AI/ML and ZK, data availability, Ethereum, and Starknet development
 
   
