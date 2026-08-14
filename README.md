@@ -1,7 +1,6 @@
 ### Hi there 👋
-- I'm a Product Manager at [Nethermind](https://nethermind.io) focused on AI Products direction /
-- Also, I'm a data science/machine learning expert with 8 years of work experience ([kaggle](https://www.kaggle.com/kirill702b)) /
-- Now focused on the intersection of AI/ML and ZK, data availability, Ethereum development
+- I'm a Head of AI Products at [Nethermind](https://nethermind.io) /
+- Also, I'm a data science/machine learning expert with 10 years of work experience ([kaggle](https://www.kaggle.com/kirill702b)) /
 
  [LinkedIn](https://www.linkedin.com/in/kirill-balakhonov/) 
  [Twitter](https://twitter.com/balakhonoff)
