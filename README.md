@@ -11,6 +11,5 @@
 
  
 - 🔭 I'm currently working on AI Smart Contract Auditor ([Nethermind AuditAgent](https://auditagent.nethermind.io/)) and Web3 Security Agentic Platform ([Nethermind AgentArena](https://agentarena.nethermind.io/))
-- 🌱 I'm currently exploring the convergence of AI/ML with ZK technologies and blockchain systems
-- 💬 Ask me about AI applications in business process automation, blockchain, ZK tech, data availability, Ethereum
+- 🌱 I'm currently exploring the convergence of AI with robotics
 - 📫 How to reach me: [Telegram](https://t.me/kirill_balakhonov)
